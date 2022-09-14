@@ -1,4 +1,4 @@
 # QR-Code-Component
 Frontend Mentor Project
 
-[Link to Component](www.qr-codecomponent-frontendmentor.netlify.app)
+[Link to Component](https://qr-codecomponent-frontendmentor.netlify.app/)
